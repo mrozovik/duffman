@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    font-family: 'Verdana', sans-serif;
+
+}
+
+h1{
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    border: none;
+    text-decoration: none;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: coral;
+    width: auto;
+    height: 210px;
+    position: relative;
+    text-align: inherit;
+    padding: 20px;
+}
+
+.email{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 700px;
+    top: 85px;
+}
+
+.logoemail{
+    height: 90px;
+    width: 90px;
+}
+
+.rickroll{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 850px;
+    top: 85px;
+}
+
+.rick_astley{
+    height: 90px;
+    width: 90px;
+}
+
+.lr1{
+    background-color: bisque;
+    padding: 20px;
+}
+
+#div1{
+    display: flex;
+    align-items: center;
+}
+
+.Cat{
+    height: 150px;
+    width: 200px;
+    border-radius: 5%;
+}
+
+.lr2{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+.lr3{
+    background-color: peachpuff;
+    padding: 20px;
+}
